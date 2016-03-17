@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/in"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/enter"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="280dp"
+            android:id="@+id/enter"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/enter"
+            android:text="\t\t作者：应天成  杨知水\n\t\t版本号：1.0.0 \n\t\t联系方式：495711146@qq.com\n\t\t\t\t\t\t\t\t\tyangzs95@yeah.net"
+            android:editable="false"
+            android:id="@+id/introduction" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:layout_marginTop="80dp"
+            android:text="\n\t\t\t\t\t\t请确保已将电脑\n\t\t\t\t\t\t\t连入手机热点！"
+            android:textSize="25dp"
+            android:gravity="left|center"
+            android:textColor="#3e3c3c"
+            android:background="@drawable/hint"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

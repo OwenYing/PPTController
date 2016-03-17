@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\learning\JAVA\PPTwithControl\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\learning\JAVA\PPTwithControl\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-7932c16e0a634056cfa783c97008ef7edc911e47.jar" />
+    </item>
+    <item
+        jar="E:\tool\Android_Studio\SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\learning\JAVA\PPTwithControl\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-57a2c929fe6604371ef1800a34038b384839e1cb.jar" />
+    </item>
+    <item
+        jar="D:\learning\JAVA\PPTwithControl\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\learning\JAVA\PPTwithControl\app\build\intermediates\pre-dexed\debug\classes-8d672a883b6e0f91d0296bf95e27d649b6e45ea2.jar" />
+    </item>
+    <item
+        jar="D:\learning\JAVA\PPTwithControl\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\learning\JAVA\PPTwithControl\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-11d51603ca731385954aa36e4c5d2925e401c228.jar" />
+    </item>
+    <item
+        jar="D:\learning\JAVA\PPTwithControl\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\learning\JAVA\PPTwithControl\app\build\intermediates\pre-dexed\debug\classes-9b0ff4f4d85acf8600c39699af1578df32ebc5ce.jar" />
+    </item>
+
+</items>
